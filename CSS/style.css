@@ -9,27 +9,6 @@ body {
     
 }
 
-#google_translate_element select{
-    padding: 10px;
-}
-
-.w{
-    position: fixed;
-    height: 50px;
-    width: 50px;
-    background-color: white;
-    bottom: 50px;
-    right: 20px;
-    z-index: 80;
-    border-radius: 50%;
-}
-.w img{
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    border-radius: 50%;
-    cursor: pointer;
-}
 header {
     background-color: rgb(0, 0, 0);
     color: white;
